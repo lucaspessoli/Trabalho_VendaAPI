@@ -6,8 +6,8 @@
 
 <h3>Prints Relatórios:</h3>
 
-![Captura de tela 2024-05-06 213943](https://github.com/lucaspessoli/Trabalho_VendaAPI/assets/115120374/f026f331-09de-476e-894f-c5600e79438c)
+![image](https://github.com/lucaspessoli/Trabalho_VendaAPI/assets/115120374/7f206565-0e6b-44fe-a183-c5710197a407)
 <br>
-![Captura de tela 2024-05-06 213928](https://github.com/lucaspessoli/Trabalho_VendaAPI/assets/115120374/fa4adc9a-1c7d-4afe-8e54-2296dd7b7a98)
+![image](https://github.com/lucaspessoli/Trabalho_VendaAPI/assets/115120374/eddd59b9-782b-4b0b-8291-91763a6d05ed)
 <br>
-![Captura de tela 2024-05-06 213908](https://github.com/lucaspessoli/Trabalho_VendaAPI/assets/115120374/baec518b-5e02-420b-bb6e-f9df6adb82f3)
+![image](https://github.com/lucaspessoli/Trabalho_VendaAPI/assets/115120374/8c1fab8d-c0a9-4731-b1f4-7c051513d272)
